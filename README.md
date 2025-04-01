@@ -6,8 +6,8 @@
 
 1. [BuildMode 插件](#1-buildmode-插件)
 2. [Crosshair Auto Color 插件](#2-crosshair-auto-color-插件)
-3. [Cheat Assist 插件](#3-cheat-assist)
-4. [Assasin插件 (含刺殺功能)](#4-Assasin插件 (含刺殺功能))
+3. [Cheat Assist 插件](#3-Cheat-Assist-插件)
+4. [Assasin插件 (含刺殺功能)](#4-Assasin插件-(刺殺))
 
 ---
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 4. Assasin插件 (含刺殺功能)
+## 4. Assasin插件 (刺殺)
 
 ### 功能介紹
 刺殺功能。
