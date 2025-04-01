@@ -6,8 +6,8 @@
 
 1. [BuildMode 插件](#1-buildmode-插件)
 2. [Crosshair Auto Color 插件](#2-crosshair-auto-color-插件)
-3. [Cheat Assist 插件 (第一版)](#3-cheat-assist-插件-第一版)
-4. [Cheat Assist 插件 (第二版，含刺殺功能)](#4-cheat-assist-插件-第二版含刺殺功能)
+3. [Cheat Assist 插件](#3-cheat-assist)
+4. [Assasin插件 (含刺殺功能)](#4-Assasin插件 (含刺殺功能))
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 3. Cheat Assist 插件 (第一版)
+## 3. Cheat Assist 插件
 
 ### 功能介紹
 多功能輔助插件，提供作弊與便利功能，適合測試或管理。
@@ -78,7 +78,7 @@
 
 ---
 
-## 4. Cheat Assist 插件 (第二版，含刺殺功能)
+## 4. Assasin插件 (含刺殺功能)
 
 ### 功能介紹
 增強版 Cheat Assist 插件，新增刺殺功能並優化特性。
